@@ -1,0 +1,6 @@
+untuk import gambar
+- letakan gambar di publik
+- jangan menggunakan ../ dalam memanggil data gambar pada public langsung(/gambar)
+
+untuk mengabungkan komponen di vue.js
+
